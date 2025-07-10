@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.1](https://github.com/BasixKOR/pnp-rust/compare/v0.12.0...v0.12.1) - 2025-07-10
+
+### Other
+
+- Improves performances ([#42](https://github.com/BasixKOR/pnp-rust/pull/42))
+- Adds a benchmark workflow ([#40](https://github.com/BasixKOR/pnp-rust/pull/40))
+
 ## [0.12.0](https://github.com/yarnpkg/pnp-rs/compare/v0.11.0...v0.12.0) - 2025-07-10
 
 ### Other
