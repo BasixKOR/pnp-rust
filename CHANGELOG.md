@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.4](https://github.com/BasixKOR/pnp-rust/compare/v0.12.3...v0.12.4) - 2025-09-14
+
+### Other
+
+- *(deps)* lock file maintenance npm packages ([#51](https://github.com/BasixKOR/pnp-rust/pull/51))
+
 ## [0.12.3](https://github.com/yarnpkg/pnp-rs/compare/v0.12.2...v0.12.3) - 2025-09-10
 
 ### Other
