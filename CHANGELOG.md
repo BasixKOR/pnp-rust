@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.9](https://github.com/BasixKOR/pnp-rust/compare/v0.12.8...v0.12.9) - 2026-04-13
+
+### Other
+
+- *(deps)* update rust crate indexmap to v2.14.0 ([#99](https://github.com/BasixKOR/pnp-rust/pull/99))
+- *(deps)* update rust crate indexmap to v2.13.1 ([#98](https://github.com/BasixKOR/pnp-rust/pull/98))
+- *(deps)* update rust crate rustc-hash to v2.1.2 ([#97](https://github.com/BasixKOR/pnp-rust/pull/97))
+- *(deps)* update dependency rust to v1.94.1 ([#96](https://github.com/BasixKOR/pnp-rust/pull/96))
+- *(deps)* update yarn to v4.13.0 ([#95](https://github.com/BasixKOR/pnp-rust/pull/95))
+- *(deps)* update dependency rust to v1.94.0 ([#94](https://github.com/BasixKOR/pnp-rust/pull/94))
+- *(deps)* update dependency rust to v1.93.1 ([#93](https://github.com/BasixKOR/pnp-rust/pull/93))
+- *(deps)* update rust crates ([#92](https://github.com/BasixKOR/pnp-rust/pull/92))
+- *(deps)* update dependency rust to v1.93.0 ([#91](https://github.com/BasixKOR/pnp-rust/pull/91))
+
 ## [0.12.8](https://github.com/yarnpkg/pnp-rs/compare/v0.12.7...v0.12.8) - 2026-01-14
 
 ### Fixed
